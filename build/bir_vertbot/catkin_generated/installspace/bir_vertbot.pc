@@ -1,0 +1,8 @@
+prefix=/home/senai/vertbot_ws/install
+
+Name: bir_vertbot
+Description: Description of bir_vertbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
